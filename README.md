@@ -1,4 +1,4 @@
-<img src="first/img/bg1.png" width="10%" />
+<img src="first/img/bg1.png" width="100%" />
 
 <h1 align="center">"once I dreamt.."</h1>
 
