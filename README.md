@@ -18,8 +18,8 @@ Hey! I'm First 🧑‍💻
 
 ## 🌀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NFI2x&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFI2x&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -41,7 +41,3 @@ Hey! I'm First 🧑‍💻
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=500&color=F7B500&center=true&vCenter=true&width=600&lines=💥+With+Great+Code+Comes+Great+Responsibility;🚀+See+You+In+The+Next+Universe!" />
-</p>
