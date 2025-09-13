@@ -1,6 +1,6 @@
 <h1 align="center">
   Chapter of Palingenesis First
-  <img src="first/img/main-first.png" width="200px" />
+  <img src="first/img/main-first.png" width="60%" />
 </h1>
 
 
