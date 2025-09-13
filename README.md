@@ -14,9 +14,7 @@ To you, I am but a passing shadow, a fragment unnoticed in the stories of your d
 I am not essential — not even for the greater good, only a quiet echo fading into nothing."
 </p>
 <br>
-
----
-
+<br>
 <br>
 
 # Hello, I'm First! 👋
