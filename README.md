@@ -12,11 +12,8 @@ Hey! I'm First 🧑‍💻
 
 ---
 
-## 🔥 Fantastic Animations
 <p align="center">
   <img src="https://media.giphy.com/media/j3qjCFYtqjHL2/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3o7TKxOhsyj5R3Z1P6/giphy.gif" width="200" />
 </p>
 
 ---
