@@ -10,19 +10,9 @@
 
 ---
 
-## 🦸 About Me
-Hey! I'm a **teen coder** 🧑‍💻 who vibes with the **Fantastic 4 energy** ⚡  
-- 🔥 Love building projects that feel like superpowers  
-- 🌌 Exploring the multiverse of tech (Java ☕, Python 🐍, JS ⚡)  
-- 🎵 Always coding with music on  
-- 🛸 Dreaming of creating something fantastic for the future  
+## Palingenesis
+Hey! I'm First 🧑‍💻
 
----
-
-## 🌟 My Fantastic 4 (Tech Powers)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html" />
-</p>
 
 ---
 
@@ -45,9 +35,9 @@ Hey! I'm a **teen coder** 🧑‍💻 who vibes with the **Fantastic 4 energy** 
 
 ## 🛡️ Let's Connect
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/YOUR_USERNAME/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="github.com/NFI2x"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.facebook.com/fil2stthelucky/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nfptrp._/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
