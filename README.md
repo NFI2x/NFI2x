@@ -1,9 +1,6 @@
-<h1 align="center">
-  Chapter of Palingenesis First
-  <img src="first/img/main-first.png" width="60%" />
-</h1>
+<img src="first/img/bg1.png" width="10%" />
 
-
+<h1 align="center">"once I dreamt.."</h1>
 
 ---
 
