@@ -1,15 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="600" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00D9F7&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+my+Fantastic+Zone!;⚡+Code+%7C+Create+%7C+Explore;💡+Keep+Building+Keep+Dreaming" alt="Typing Animation" />
-</p>
-
----
-
 ## Palingenesis
 Hey! I'm First 🧑‍💻
 
