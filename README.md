@@ -1,4 +1,6 @@
-<img src="Title.jpg"/>
+
+<img src="banner.png" width="100%" />
+
 
 <h1 align="center">"once I dreamt.."</h1>
 
