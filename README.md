@@ -4,14 +4,6 @@ Hey! I'm First 🧑‍💻
 
 ---
 
-## 🌀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NFI2x&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFI2x&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
 </p>
