@@ -57,7 +57,10 @@ I’m currently working on **ZyGen Company Limited**
 <p align="left">
 <a href="https://fb.com/pattarapon jankeaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattarapon jankeaw" height="30" width="40" /></a>
 <a href="https://instagram.com/nfptrp._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nfptrp._" height="30" width="40" /></a>
+<a href="mailto:dhyroto062@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="dhyroto062@gmail.com" height="30" width="40" /></a>
+<a href="https://github.com/NFil2st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NFil2st" height="30" width="40" /></a>
 </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfil2st" alt="nfil2st" /></a> </p>
